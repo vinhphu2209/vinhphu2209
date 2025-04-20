@@ -13,7 +13,7 @@
 
 ## 📫 Let's connect!
 - GitHub: [vinhphu2209](https://github.com/vinhphu2209)
-- Email: *your_email@example.com* (bạn có thể thay đổi sau)
+- Email: vinhphu2209@gmail.com
 
 ---
 
