@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vinh Phu
 
-<!--
-**vinhphu2209/vinhphu2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a passionate developer who loves turning ideas into code.  
+🌱 Currently learning and building exciting projects with modern technologies.  
+🚀 Always looking to improve and collaborate with others on cool stuff.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- 💻 Languages: JavaScript, Python, Java, C++
+- 🌐 Frontend: React, HTML, CSS, Tailwind
+- ⚙️ Backend: Node.js, Express, Java Spring Boot
+- 🛢 Database: MySQL, MongoDB
+- ☁️ Tools & Platforms: Git, GitHub, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's connect!
+- GitHub: [vinhphu2209](https://github.com/vinhphu2209)
+- Email: *your_email@example.com* (bạn có thể thay đổi sau)
+
+---
+
+⭐️ Fun fact: I love learning new things and solving coding puzzles in my free time!
